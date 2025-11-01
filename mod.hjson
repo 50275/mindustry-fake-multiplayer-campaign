@@ -1,0 +1,9 @@
+name: "fake-multiplayer-campaign"
+displayName: "Fake Multiplayer Campaign"
+author: "50275"
+description: "TODO"
+subtitle: "TODO"
+version: "2025-11-1"
+minGameVersion: 147
+hidden: true
+repo: "50275/mindustry-fake-multiplayer-campaign"
